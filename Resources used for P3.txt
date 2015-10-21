@@ -1,0 +1,3 @@
+Resources for P3
+
+https://scotch.io/tutorials/simple-laravel-layouts-using-blade
