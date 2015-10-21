@@ -19,5 +19,5 @@ Using Laravel Framework
 ### Links:
 #####[P3 Web View](http://p3.frankpbaldwin.com)
 #####[P3 Github] (https://github.com/frankbaldwin/P3)
-#####[P3 Walk Through] (https://github.com/frankbaldwin/P3/blob/master/Walk_through.swf)
+#####[P3 Walk Through] (https://github.com/frankbaldwin/P3/blob/master/Project3_walkthrough.swf)
 
