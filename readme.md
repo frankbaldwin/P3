@@ -3,11 +3,17 @@
 ### Project Description:
 
 Using Laravel Framework
+
 1. Create a new Laravel app to include: Lorem Ipsum Generator and Random User generator.
+
 2. Get Project 2 working in Laravel app.
+
 3. Install Composer packages both locally and live
+
 4. Create routes and controllers
+
 5. Create a master blade and extend through children blades
+
 6. Get it working on our DigitalOcean Droplet.
 
 ### Links:
