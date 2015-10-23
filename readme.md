@@ -16,6 +16,8 @@ Using Laravel Framework
 
 6. Get it working on our DigitalOcean Droplet.
 
+7. Validate HTML & CSS.
+
 ### Links:
 #####[P3 Web View](http://p3.frankpbaldwin.com)
 #####[P3 Github] (https://github.com/frankbaldwin/P3)
