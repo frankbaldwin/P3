@@ -8,7 +8,7 @@
 			<li>Lorem Ipsum Generator</li>
 				<p>This generator will generate paragraphs of Lorem Ipsum to use as filler text<p>
 			<li>Random Business Contact Generator</li>
-				<p>This generator will create random business contacts for test purposes with:</>
+				<p>This generator will create random business contacts for test purposes with:</p>
 					<ul>
 						<li>First & Last Name</li>
 						<li>Company they work for</li>

@@ -25,4 +25,7 @@ class loremController extends Controller
 		echo implode('<p></br>', $paragraphs);
         return view('lorem');
     }
+
 }
+
+ 
